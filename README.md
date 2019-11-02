@@ -1,6 +1,6 @@
 # dqn_cartpole
-Teaching A Deep Q Neural Network How To Balance (OpenAI Cartpole)
+# Teaching A MellowMax Deep Q Neural Network How To Balance
 
-![Performance chart](https://user-images.githubusercontent.com/25379378/67264776-ece55100-f460-11e9-925c-46230b6cadd7.jpg)
+![Performance history](https://user-images.githubusercontent.com/25379378/68075831-a0f0b100-fd6a-11e9-9b37-8a44f8b78b30.png)
 
-![Balancing act](https://user-images.githubusercontent.com/25379378/67250610-eb943400-f420-11e9-90aa-299f6b10dc25.gif)
+![Cat on a CartPole](https://user-images.githubusercontent.com/25379378/68075838-bd8ce900-fd6a-11e9-8721-b3eef0d1b34c.gif)
